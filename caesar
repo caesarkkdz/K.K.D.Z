@@ -4,6 +4,8 @@ import json
 import itertools
 import threading
 import sys
+import os
+os.system ('clear')
 
 done = False
 #here is the animation
